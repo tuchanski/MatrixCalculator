@@ -31,13 +31,13 @@ Ao rodar o programa, você verá um menu com as opções:
 
 ```
 ********** MATRIX CALCULATOR **********
-1 - Adicionar matrizes
-2 - Subtrair matrizes
-3 - Multiplicar matrizes
-4 - Matriz identidade
-5 - Sair
-****************************************
-Escolha aqui: 
+1 - Add matrices
+2 - Subtract matrices
+3 - Multiply matrices
+4 - Identity matrix
+5 - Exit
+***************************************
+Choose here: 
 ```
 
 Após escolher uma opção, siga as instruções para inserir as dimensões e os valores das matrizes.
@@ -45,20 +45,19 @@ Após escolher uma opção, siga as instruções para inserir as dimensões e os
 ### Exemplo de Soma de Matrizes
 
 ```
-Inserir o número de linhas para as Matrizes A e B: 2
-Inserir o número de colunas para as Matrizes A e B: 2
+Insert the number of rows for both Matrix A and B: 2
+Insert the number of columns for both Matrix A and B: 2
 
-Matriz A [0][0] - Inserir um valor: 1
-Matriz A [0][1] - Inserir um valor: 2
-Matriz A [1][0] - Inserir um valor: 3
-Matriz A [1][1] - Inserir um valor: 4
+Matrix A [0][0] - Insert a value: 1
+Matrix A [0][1] - Insert a value: 2
+Matrix A [1][0] - Insert a value: 3
+Matrix A [1][1] - Insert a value: 4
+Matrix B [0][0] - Insert a value: 5
+Matrix B [0][1] - Insert a value: 6
+Matrix B [1][0] - Insert a value: 7
+Matrix B [1][1] - Insert a value: 8
 
-Matriz B [0][0] - Inserir um valor: 5
-Matriz B [0][1] - Inserir um valor: 6
-Matriz B [1][0] - Inserir um valor: 7
-Matriz B [1][1] - Inserir um valor: 8
-
-Resultado:
+Result:
 6 8
 10 12
 ```
