@@ -115,5 +115,5 @@ def menu():
             print()
             break
 
-# Main Program
-menu()
+if __name__ == "__main__":
+    menu()
