@@ -1,5 +1,5 @@
 
-# Calculadora de Matrizes
+# Calculadora de Matrizes ⚙️
 
 Este projeto foi desenvolvido para a disciplina Raciocínio Algorítmico da PUCPR utilizando Python. O objetivo foi criar uma calculadora de matrizes, onde é possível realizar operações como soma, subtração, multiplicação e geração de matriz identidade. 
 
@@ -17,7 +17,7 @@ A calculadora possui as seguintes funcionalidades:
 
 ### Pré-requisitos
 
-Para executar o código, você precisa ter o Python instalado em sua máquina. Este projeto não depende de bibliotecas externas, utilizando apenas funções nativas do Python.
+Para executar o código, você precisa ter o Python instalado em sua máquina.
 
 ### Instruções
 
